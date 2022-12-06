@@ -1,5 +1,5 @@
 # 16s Amplicon Sequencing Analysis
-16s amplicon sequence analysis of stools samples from patients having persistent Diarrhea and three different nutrient intervention at multiple points in time.
+16s amplicon sequence analysis of stools samples from patients having persistent Diarrhea and three different nutrient interventions at multiple points in time.
 
 
  - Sequence quality control and feature table construction using [DADA2](https://pubmed.ncbi.nlm.nih.gov/27214047/) -
